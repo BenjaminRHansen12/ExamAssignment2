@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Benjamin\\programming\\module_2_exam\\template\\connected_example.csproj": {}
+    "C:\\Users\\Benjamin\\Programming\\module_2_exam\\template\\connected_example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Benjamin\\programming\\module_2_exam\\template\\connected_example.csproj": {
+    "C:\\Users\\Benjamin\\Programming\\module_2_exam\\template\\connected_example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Benjamin\\programming\\module_2_exam\\template\\connected_example.csproj",
+        "projectUniqueName": "C:\\Users\\Benjamin\\Programming\\module_2_exam\\template\\connected_example.csproj",
         "projectName": "connected_example",
-        "projectPath": "C:\\Users\\Benjamin\\programming\\module_2_exam\\template\\connected_example.csproj",
+        "projectPath": "C:\\Users\\Benjamin\\Programming\\module_2_exam\\template\\connected_example.csproj",
         "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Benjamin\\programming\\module_2_exam\\template\\obj\\",
+        "outputPath": "C:\\Users\\Benjamin\\Programming\\module_2_exam\\template\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config"
