@@ -1,0 +1,15 @@
+C:\Users\Benjamin\programming\module_2_exam\template\bin\Debug\net8.0\connected_example.exe
+C:\Users\Benjamin\programming\module_2_exam\template\bin\Debug\net8.0\connected_example.deps.json
+C:\Users\Benjamin\programming\module_2_exam\template\bin\Debug\net8.0\connected_example.runtimeconfig.json
+C:\Users\Benjamin\programming\module_2_exam\template\bin\Debug\net8.0\connected_example.dll
+C:\Users\Benjamin\programming\module_2_exam\template\bin\Debug\net8.0\connected_example.pdb
+C:\Users\Benjamin\programming\module_2_exam\template\obj\Debug\net8.0\connected_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\programming\module_2_exam\template\obj\Debug\net8.0\connected_example.AssemblyInfoInputs.cache
+C:\Users\Benjamin\programming\module_2_exam\template\obj\Debug\net8.0\connected_example.AssemblyInfo.cs
+C:\Users\Benjamin\programming\module_2_exam\template\obj\Debug\net8.0\connected_example.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\programming\module_2_exam\template\obj\Debug\net8.0\connected_example.sourcelink.json
+C:\Users\Benjamin\programming\module_2_exam\template\obj\Debug\net8.0\connected_example.dll
+C:\Users\Benjamin\programming\module_2_exam\template\obj\Debug\net8.0\refint\connected_example.dll
+C:\Users\Benjamin\programming\module_2_exam\template\obj\Debug\net8.0\connected_example.pdb
+C:\Users\Benjamin\programming\module_2_exam\template\obj\Debug\net8.0\connected_example.genruntimeconfig.cache
+C:\Users\Benjamin\programming\module_2_exam\template\obj\Debug\net8.0\ref\connected_example.dll
